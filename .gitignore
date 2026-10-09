@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Large files exceeding GitHub's 100MB limit
+WhatsApp Video 2026-10-03 at 21.01.35.mp4
+public/videos/stone_culture.mp4
